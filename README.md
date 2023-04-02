@@ -1,4 +1,5 @@
 ### Hi there👋, You can call me Dev:man:
+A dynamic and technically-rich Web Developer with proficiency in React, Node.js, Express, and MongoDB, dedicated to delivering high-quality web applications. Additionally, strong problem-solving skills will enable quickly identifying and addressing issues during development in a team environment, ensuring the timely delivery of complex web projects from start to finish, driving the company's success.
 ----------------------------------------
 
 ## 🌐 Socials:
