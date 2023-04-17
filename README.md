@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning Full Stack Web Development
 - 👯 I’m looking to collaborate on your open source projects
 - 💬 Ask me about Anything , I am happy to help
-- 📫 How to reach me **chintuthecoder@gmail.com**
+- 📫 How to reach me **debabrata.join@gmail.com**
 - 😄 Connect with me on **[LinkedIn](https://www.linkedin.com/in/debabrata-hembram-704723184/)**
 - ⚡ Fun fact: I never thought I would become a programmer!
 - 💻 I recommend looking through the pinned repositories which showcase my current skills.
