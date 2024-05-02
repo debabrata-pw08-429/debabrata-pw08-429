@@ -6,7 +6,7 @@
 > The profound impact that programming languages and cutting-edge web technologies can have on solving complex societal problems and advancing human civilization has been an incredibly motivating force behind my decision to become a software developer.
 > 
  <p align="left">
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerblue" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-dodgerblue" />
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
 </p>
 
