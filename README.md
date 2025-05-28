@@ -15,11 +15,8 @@
 - 📫 How to reach me **debabrata.join@gmail.com**
 - 😄 Connect with me on **[LinkedIn](https://www.linkedin.com/in/debabrata-hembram-704723184/)**
 
-<br>
-
-[![](https://camo.githubusercontent.com/fe036730cd3a294b1009c646183c70bbf1d2d17f2c03490f13e6d00dfe96ec78/68747470733a2f2f64657a696e65627261696e7a2e636f6d2f696d616765732f7765622d64657369676e2d6769662e676966)]()
+[![](c)]()
 ----------------------------------------
-
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
