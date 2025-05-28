@@ -1,7 +1,3 @@
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=390&height=100&lines=Hi+👋+%2C+I'm+Debabrata👨!+%F0%9F%91%8B" alt="Typing SVG" /></a>
-</p>
-
 ## :sunglasses: **About Me**
 > The profound impact that programming languages and cutting-edge web technologies can have on solving complex societal problems and advancing human civilization has been an incredibly motivating force behind my decision to become a software developer.
 > 
